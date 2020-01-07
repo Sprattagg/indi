@@ -1,0 +1,17 @@
+/* FOOTER */
+
+footer {
+    background-image: url("../../img/wall-1846965_1920.jpg");
+    height: 100px;
+
+}
+
+footer ul{
+    display:flex;
+    justify-content: space-evenly;
+
+}
+footer li {
+    margin: 40px auto;
+    list-style: none;
+}
