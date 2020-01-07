@@ -1,52 +1,47 @@
 /*  NAVbar */
-nav{
-    box-shadow: inset 0px 0px 20px 0px rgba(255,255,255,1);
-    background-image: url("../../img/wall-1846965_1920.jpg");
-    display:flex;
-
+nav {
+  box-shadow: inset 0px 0px 20px 0px rgba(255, 255, 255, 1);
+  background-image: url("../../img/wall-1846965_1920.jpg");
+  display: flex;
 }
-nav h1{
-    font-size: 2rem;
-    color:white;
-    margin:20px;
+nav h1 {
+  font-size: 2rem;
+  color: white;
+  margin: 20px;
 }
-.nav__ul{
-    display:flex;
-    text-transform: uppercase;
-    list-style: none;
-
+.nav__ul {
+  display: flex;
+  text-transform: uppercase;
+  list-style: none;
 }
-.nav__li{
-    font-size: 1.5rem;
-    margin: 10px;
-    padding: 10px;
-    border-radius: 5px;
-    transform: skew(30deg);
-    box-shadow: 0px 0px 10px 5px rgba(255,255,255,1);
-    
-
+.nav__li {
+  font-size: 1.5rem;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  transform: skew(30deg);
+  box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 1);
 }
-.nav__li:hover{
-    background-color: rgba(0, 0, 0, 0.5);
-    font-family: 'Long Cang', cursive;
+.nav__li:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+  font-family: "Long Cang", cursive;
 }
-a{
-    color:white;
-    text-decoration: none;
-
+a {
+  color: white;
+  text-decoration: none;
 }
 
 /* BANNERS */
 
-.banner{
-    height:250px;
-    width:100%;
-    background-position: center;
-    background-image: url("../../img/isolate-1209275_1920.jpg");
+.banner {
+  height: 250px;
+  width: 100%;
+  background-position: center;
+  background-image: url("../../img/isolate-1209275_1920.jpg");
 }
-.bannertwo{
-    height:250px;
-    width:100%;
-    background-position: center;
-    background-image: url("../../img/head-2748333_1920.jpg");
+.bannertwo {
+  height: 250px;
+  width: 100%;
+  background-position: center;
+  background-image: url("../../img/head-2748333_1920.jpg");
 }
